@@ -15,5 +15,6 @@ $ npm install crazycase
 ```js
 const crazycase = require('crazycase');
 
+crazycase('wow crazy!') // --> 'wOw cRaZy!'
 crazycase('SOME STRING') // --> 'sOmE StRiNg'
 ```
