@@ -1,6 +1,6 @@
 ## crazycase
 
-[![CircleCI](https://circleci.com/gh/cadenichols/crazycase.svg?style=svg)](https://circleci.com/gh/cadenichols/crazycase)
+[![CircleCI](https://circleci.com/gh/cadenichols/crazycase.svg?style=shield)](https://circleci.com/gh/cadenichols/crazycase)
 
 Alternate string casing.
 
